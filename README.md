@@ -1,5 +1,5 @@
 # Project1
-Projekt do analizy dokumentów struktury Konstytucji lub UOKiK i im podobnych
+Projekt z Programowania Obiektowego do analizy dokumentów struktury Konstytucji lub UOKiK i im podobnych
 
 Proszę wprowadzic dane: nazwa_pliku zakres(oddzielony znakiem - ) artukułów do wyświetlenia 
  lub konkretny element pliku, podając pełną jego ścieżkę 
